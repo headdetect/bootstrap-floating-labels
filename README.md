@@ -10,7 +10,6 @@ Requirements
 ------------
 * Bootstrap 3.0
 * jQuery 1.10.x or later
-* Taste
 
 Usage
 -----
