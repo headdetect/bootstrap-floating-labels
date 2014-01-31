@@ -30,10 +30,10 @@
   vertical-align: middle;
   vertical-align: baseline;
   margin: 0;
-  -webkit-transition: top 0.5s ease, opacity 0.5s ease;
-     -moz-transition: top 0.5s ease, opacity 0.5s ease;
-      -ms-transition: top 0.5s ease, opacity 0.5s ease;
-          transition: top 0.5s ease, opacity 0.5s ease;
+  -webkit-transition: top 0.3s ease, opacity 0.3s ease;
+     -moz-transition: top 0.3s ease, opacity 0.3s ease;
+      -ms-transition: top 0.3s ease, opacity 0.3s ease;
+          transition: top 0.3s ease, opacity 0.3s ease;
 }
 
 .floating-label-form-group:not(:first-child) {
@@ -47,7 +47,7 @@
 }
 
 .floating-label-form-group-with-focus label {
-  color: blue;
+  color: #428bca;
 }
 
 form .row:first-child .floating-label-form-group {
