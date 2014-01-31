@@ -3,8 +3,8 @@ Bootstrap floating labels
 
 A new placeholder UI design for Bootstrap forms.
 Inspired by Mark D. Smith's
-[Dribbble post](http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users)
-and @jverdi's [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField).
+[Dribbble post](http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users) and @jverdi's [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField).  
+[Demo](http://headdetect.github.io/bootstrap-floating-labels/)
 
 Requirements
 ------------
