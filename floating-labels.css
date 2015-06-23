@@ -27,6 +27,7 @@
     font-size: 1.5em;
     box-shadow: none;
     margin-left: -4px;
+    background: transparent;
 }
 
 .floating-label-form-group label {
